@@ -1,0 +1,12 @@
+[submodule "MBTI"]
+	path = MBTI
+	url = https://github.com/kyoonkwon/MBTI.git
+[submodule "molkemon"]
+	path = molkemon
+	url = https://github.com/kyoonkwon/molkemon.git
+[submodule "socat"]
+	path = socat
+	url = https://github.com/kyoonkwon/socat.git
+[submodule "warphago"]
+	path = warphago
+	url = https://github.com/kyoonkwon/warphago.git
